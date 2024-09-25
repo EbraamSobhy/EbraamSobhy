@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-wine-omega.vercel.app/](https://new-portfolio-wine-omega.vercel.app/)
 
