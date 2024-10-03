@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning ***Data Science and Machine Learning***
 
-- 👨‍💻 All of my projects are available at <a href="https://new-portfolio-six-pearl.vercel.app/">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://new-portfolio-six-pearl.vercel.app/" target="_blank">My Portfolio</a>
 
-- 💬 Ask me about **React, MERN and Web Development**
+- 💬 Ask me about ***React, MERN Stack and Web Development***
 
 - 📫 How to reach me **ibraam.sobhy2003@gmail.com**
 
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ebraam sobhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebraam sobhy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ebraam sobhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ebraam sobhy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ebraam-sobhy-255444274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebraam sobhy" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24775814/ebraam-sobhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ebraam sobhy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
