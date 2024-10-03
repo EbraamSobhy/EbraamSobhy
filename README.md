@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraamsobhy&label=Profile%20views&color=0e75b6&style=flat" alt="ebraamsobhy" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on ***Web Development***
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning ***Data Science and Machine Learning***
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-wine-omega.vercel.app/](https://new-portfolio-wine-omega.vercel.app/)
 
