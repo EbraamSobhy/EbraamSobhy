@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ***Data Science and Machine Learning***
 
-- 👨‍💻 All of my projects are available at [https://new-portfolio-wine-omega.vercel.app/](https://new-portfolio-wine-omega.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://new-portfolio-six-pearl.vercel.app/">My Portfolio</a>
 
 - 💬 Ask me about **React, MERN and Web Development**
 
