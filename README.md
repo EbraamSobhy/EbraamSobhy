@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ***Web Development***
 
-- 🌱 I’m currently learning ***Data Science and Machine Learning***
+- 🌱 I’m currently learning ***React Native***
 
 - 👨‍💻 All of my projects are available at <a href="https://new-portfolio-six-pearl.vercel.app/" target="_blank">My Portfolio</a>
 
