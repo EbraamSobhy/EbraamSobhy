@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ***Flask***
 
-- 👨‍💻 All of my projects are available at <a href="https://new-portfolio-six-pearl.vercel.app/" target="_blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://new-portfolio-kohl-omega.vercel.app/" target="_blank">My Portfolio</a>
 
 - 💬 Ask me about ***React, MERN Stack and Web Development***
 
