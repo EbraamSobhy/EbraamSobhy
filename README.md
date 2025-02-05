@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ***Web Development***
 
-- 🌱 I’m currently learning ***Flask***
+- 🌱 I’m currently learning ***Data Science and Machine Learning***
 
 - 👨‍💻 All of my projects are available at <a href="https://new-portfolio-kohl-omega.vercel.app/" target="_blank">My Portfolio</a>
 
