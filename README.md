@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning ***Data Science and Machine Learning***
 
-- 👨‍💻 All of my projects are available at <a href="https://new-portfolio-kohl-omega.vercel.app/" target="_blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-three-js-ruddy.vercel.app/" target="_blank">My Portfolio</a>
 
-- 💬 Ask me about ***React, MERN Stack and Web Development***
+- 💬 Ask me about ***React Native, React.js and Web Development***
 
 - 📫 How to reach me **ibraam.sobhy2003@gmail.com**
 
