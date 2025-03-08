@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ebraam Sobhy</h1>
 <h3 align="center">A Passionate Software Development</h3>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Centered Image">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Centered Image">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraamsobhy&label=Profile%20views&color=0e75b6&style=flat" alt="ebraamsobhy" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning Data Science and Machine Learning<br><br><br>💬 Ask me about React Native, React.js and Web Development<br><br>📫 How to reach me ibraam.sobhy2003@gmail.com<br><br>⚡ Fun fact I am Funny
+🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning Data Science and Machine Learning<br><br>💬 Ask me about React Native, React.js and Web Development<br><br>📫 How to reach me ibraam.sobhy2003@gmail.com<br><br>⚡ Fun fact I am Funny
 
 
 ## 🌐 Socials:
