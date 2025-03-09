@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebraam-sobhy-255444274/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-white?logo=vercel&logoColor=black&color=white)](https://new-portfolio-six-pearl.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-white?logo=vercel&logoColor=black&color=white)](https://portfolio-three-js-ruddy.vercel.app/)
 
 
 # 💻 Tech Stack:
