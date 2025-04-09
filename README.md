@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraamsobhy&label=Profile%20views&color=0e75b6&style=flat" alt="ebraamsobhy" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning Data Science and Machine Learning<br><br>💬 Ask me about React Native, React.js and Web Development<br><br>⚡ Fun fact I am Funny
+🔭 I’m currently working on Web Development<br><br>💬 Ask me about React Native, React.js and Web Development<br><br>⚡ Fun fact I am Funny
 
 
 ## 🌐 Socials:
