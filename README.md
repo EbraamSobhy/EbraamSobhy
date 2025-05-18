@@ -30,7 +30,7 @@
 ![Web Development Instructor](https://img.shields.io/badge/Web%20Development%20Instructor-%23007ACC.svg?style=for-the-badge&logo=googleclassroom&logoColor=white) ![Generative AI Tools](https://img.shields.io/badge/Generative%20AI%20Tools-%23FFFFFF.svg?style=for-the-badge&logo=openai&logoColor=black) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23777777.svg?style=for-the-badge&logo=chatbot&logoColor=white) ![Information Systems](https://img.shields.io/badge/Information%20Systems-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EbraamSobhy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=EbraamSobhy&theme=dark&hide_border=false))<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EbraamSobhy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
