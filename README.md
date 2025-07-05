@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraamsobhy&label=Profile%20views&color=0e75b6&style=flat" alt="ebraamsobhy" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br><br>💬 Ask me about React Native, React.js and Web Development<br><br>⚡ Fun fact I am Funny
+🔭 I’m currently working on Web Development, Mobile Development<br><br>💬 Ask me about React Native, React.js and Web Development<br><br>⚡ Fun fact I am Funny
 
 
 ## 🌐 Socials:
@@ -30,14 +30,3 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-34393D?style=for-the-badge&logo=tmux&logoColor=1BB91F)
 ![Web Development Instructor](https://img.shields.io/badge/Web%20Development%20Instructor-%23007ACC.svg?style=for-the-badge&logo=googleclassroom&logoColor=white) ![Generative AI Tools](https://img.shields.io/badge/Generative%20AI%20Tools-%23FFFFFF.svg?style=for-the-badge&logo=openai&logoColor=black) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23777777.svg?style=for-the-badge&logo=chatbot&logoColor=white) ![Information Systems](https://img.shields.io/badge/Information%20Systems-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=EbraamSobhy&theme=dark&hide_border=false))<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EbraamSobhy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EbraamSobhy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=EbraamSobhy&icon=2&color=3)](https://visitcount.itsvg.in)
