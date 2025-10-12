@@ -32,6 +32,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-34393D?style=for-the-badge&logo=tmux&logoColor=1BB91F)
+![Neovim](https://img.shields.io/badge/Neovim-0f1117?style=for-the-badge&logo=neovim&logoColor=57A143)
 ![fzf](https://img.shields.io/badge/fzf-%23007ACC.svg?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Software Development Instructor](https://img.shields.io/badge/Software%20Development%20Instructor-%23007ACC.svg?style=for-the-badge&logo=googleclassroom&logoColor=white) ![Information Systems](https://img.shields.io/badge/Information%20Systems-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
