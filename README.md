@@ -8,7 +8,7 @@ Passionate Software Developer and Software Development Instructor with hands-on 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebraam-sobhy-255444274/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5982f4.svg)](https://pero-sobhy.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF.svg)](https://pero-sobhy.netlify.app/)
 
 # 💻 Tech Stack:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
