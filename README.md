@@ -1,36 +1,9 @@
-<h1 align="center">Hi, I'm Ebraam Sobhy</h1>
-<h3 align="center">Software Developer | Software Development Instructor</h3>
+# Hi  I'm Ebraam Sobhy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebraamsobhy&label=Profile%20views&color=0e75b6&style=flat" alt="ebraamsobhy" /> </p>
+### Software Developer | Software Development instructor
 
-# About Me:
-Passionate Software Developer and Software Development Instructor with hands-on experience in web and mobile application development with a passion for creating efficient, user-friendly solutions. Experienced in teaching programming concepts and guiding students through practical projects, combining technical expertise with strong communication skills.
+Passionate Software Developer and Software Development Instructor with hands-on experience in Web Development, Frontend Development, React Native Development, Mobile App Development, Developer Tools, CLI Tools, DevOps, CI/CD, and open-source projects that improve developer productivity. I am passionate about creating efficient, scalable, and user-friendly solutions while delivering high-quality software that enhances developer experience.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebraam-sobhy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF.svg)](https://pero-sobhy.vercel.app/)
+I specialize in building modern web and mobile applications, developer tools, automation solutions, and DevOps workflows that streamline development and improve productivity. My expertise extends to Developer Experience (DX) Engineering, Information Systems, content architecture, and product thinking, enabling me to design impactful, developer-first products and workflows.
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![REST APIs](https://img.shields.io/badge/REST%20APIs-%2300A859.svg?style=for-the-badge&logo=postman&logoColor=white)
- ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Cobra CLI](https://img.shields.io/badge/Cobra%20CLI-AC8016?style=for-the-badge&logo=go&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Oh My Zsh](https://img.shields.io/badge/Oh%20My%20Zsh-%23FF0000.svg?style=for-the-badge) ![Supabase](https://img.shields.io/badge/supabase-%2307F0BA.svg?style=for-the-badge&logo=supabase&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%233B7A57.svg?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- ![Bash](https://img.shields.io/badge/Bash-26a268?style=for-the-badge&logo=gnubash&logoColor=white)
- ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
-![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-000000?style=for-the-badge&logo=tmux&logoColor=1BB91F)
-![Neovim](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=57A143)
-![fuzzy finder](https://img.shields.io/badge/fuzzy%20finder-%23007ACC.svg?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Software Development Instructor](https://img.shields.io/badge/Software%20Development%20Instructor-%23007ACC.svg?style=for-the-badge&logo=googleclassroom&logoColor=white) ![Information Systems](https://img.shields.io/badge/Information%20Systems-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
+Beyond software development, I enjoy teaching programming concepts, guiding students through practical projects, mentoring aspiring developers, contributing to open source, engaging in developer relations, and sharing knowledge through public speaking. I combine technical expertise with strong communication skills to help developers learn, build, and grow.
